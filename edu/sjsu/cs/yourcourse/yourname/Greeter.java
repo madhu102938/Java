@@ -1,4 +1,4 @@
-package greet;
+package edu.sjsu.cs.yourcourse.yourname;
 /**
  * Just a class to Greet the user :)
  */
@@ -10,10 +10,6 @@ public class Greeter {
     public Greeter(String aname) {
         name = aname;
     }
-
-    // public Greeter() {
-    //     name = "";
-    // }
 
     /**
      * Method to say hello to the user.
